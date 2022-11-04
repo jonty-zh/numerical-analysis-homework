@@ -407,3 +407,7 @@ dmypy.json
 
 # 
 *.pdf
+
+.DS_Store
+
+
